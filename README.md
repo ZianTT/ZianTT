@@ -7,7 +7,7 @@ Here's my GitHub Contribute information.
 
 Here's some skills I'm using in projects of me or my org, special thanks! 
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,atom,azure,bash,bootstrap,c,cpp,cloudflare,cmake,codepen,css,dart,discord,django,docker,electron,figma,flask,flutter,git,github,githubactions,go,gradle,grafana,graphql,heroku,html,idea,js,jquery,laravel,latex,linux,md,maven,mongodb,mysql,nextjs,nginx,nodejs,nextjs,perl,php,postgres,powershell,py,react,redis,regex,spring,svg,swift,ts,vercel,vim,vite,vscode,vue,webpack,wordpress,workers,xd)]()
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,azure,bash,bootstrap,c,cpp,cloudflare,css,dart,docker,electron,figma,flask,flutter,git,github,go,grafana,graphql,heroku,html,idea,js,jquery,latex,linux,md,mongodb,mysql,nextjs,nginx,nodejs,php,postgres,powershell,py,react,redis,regex,svg,swift,ts,vercel,vim,vite,vscode,vue,webpack,wordpress,workers,xd)]()
 
 
 

@@ -3,7 +3,7 @@
 
 Here's my GitHub Contribute information.
 
-[![My GitHub Information]([https://github-readme-stats.vercel.app/api?username=ZianTT](https://github-readme-stats.vercel.app/api?username=ZianTT&count_private=true&locale=cn&show_icons=true))]()
+[![My GitHub Information](https://github-readme-stats.vercel.app/api?username=ZianTT&count_private=true&locale=cn&show_icons=true)
 
 Here's some skills I'm using in projects of me or my org, special thanks! 
 

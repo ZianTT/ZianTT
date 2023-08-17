@@ -1,5 +1,5 @@
 # 👋Hi there
-## I'm  ZianTT, a network researcher from Shanghai, China.
+## I'm  ZianTT, a network researcher from Shanghai, China. Now also a student from Yangpu Senior High School.
 
 Here's my GitHub Contribute information.
 

@@ -1,5 +1,5 @@
 # 👋Hi there
-## I'm  ZianTT, a network researcher from Shanghai, China. Now also a student from Yangpu Senior High School.
+## I'm  ZianTT, a network researcher from Shanghai, China.
 
 Here's my GitHub Contribute information.
 
@@ -8,7 +8,7 @@ Here's my GitHub Contribute information.
 I'm also:
 - a member of Bytes Security
 - a member of Tangping Cup Group
-- a employee of Zhuhai Xiyun Cloud Technology Co., Ltd.
+- a employee of Zhuhai Xiyun Cloud Technology Co., Ltd.(珠海市晞云云科技有限公司)
 - a member of Nurl Group
 
 

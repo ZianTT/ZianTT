@@ -43,4 +43,3 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
-          plugin_achievements_display: compact

@@ -32,6 +32,8 @@ jobs:
           plugin_languages_analysis_timeout: 30
           repositories_affiliations: collaborator
           commits_authoring: ZianTT, 2508164094@qq.com, ziantt@duck.com, 53261506+ZianTT@users.noreply.github.com, ziantt@lightxi.com
+          plugin_habits: yes
+          plugin_habits_facts: yes
       - name: two
         uses: lowlighter/metrics@latest
         with:
@@ -41,5 +43,4 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
-          plugin_habits: yes
-          plugin_habits_facts: yes
+          plugin_achievements_display: compact

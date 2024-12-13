@@ -4,8 +4,7 @@
 ## QQ Chat Group: 226365553
 
 I'm also:
-- a member of Bytes Security
-- a member of Tangping Cup Group
+- a member of V&N Team
 - a employee of Zhuhai Xiyun Cloud Technology Co., Ltd.(珠海市晞云云科技有限公司)
 - a member of Nurl Group
 

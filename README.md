@@ -1,12 +1,10 @@
 # 👋Hi there
-## I'm  ZianTT, a network researcher from Shanghai, China.
-
-## QQ Chat Group: 226365553
+## I'm  ZianTT, a network researcher.
 
 I'm also:
-- a member of V&N Team
-- a employee of Zhuhai Xiyun Cloud Technology Co., Ltd.(珠海市晞云云科技有限公司)
-- a member of Nurl Group
+- a CTFer @ V&N Team
+- a DevOps @ LightXi Inc. AKA Zhuhai Xiyun Cloud Technology Co., Ltd.(珠海市晞云云科技有限公司)
+- currently middle school student in Shanghai
 
 [![My GitHub Information](https://github-readme-stats.vercel.app/api?username=ZianTT&count_private=true&locale=cn&show_icons=true)]()
 

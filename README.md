@@ -5,7 +5,7 @@ I'm also:
 - a CTFer @ [V&N Team](https://vnteam.cn/)
 - a CTFer @ [idkTeam](https://idontknowctf.xyz/)
 - a CTFer @ [LilHouse](https://github.com/Lil-House)
-- a DevSecOps @ LightXi Inc. AKA Zhuhai Xiyun Cloud Technology Co., Ltd.(珠海市晞云云科技有限公司)
+- a DevSecOps @ [LightXi Inc.](https://www.lightxi.com/) AKA Zhuhai Xiyun Cloud Technology Co., Ltd.(珠海市晞云云科技有限公司)
 - currently middle school student in Shanghai Yangpu Senior High School
 
 [![My GitHub Information](https://github-readme-stats.vercel.app/api?username=ZianTT&count_private=true&locale=cn&show_icons=true)]()

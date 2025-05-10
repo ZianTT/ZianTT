@@ -3,6 +3,8 @@
 
 I'm also:
 - a CTFer @ V&N Team
+- a CTFer @ idkTeam
+- a CTFer @ LilHouse
 - a DevSecOps @ LightXi Inc. AKA Zhuhai Xiyun Cloud Technology Co., Ltd.(珠海市晞云云科技有限公司)
 - currently middle school student in Shanghai Yangpu Senior High School
 

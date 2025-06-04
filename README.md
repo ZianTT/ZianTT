@@ -2,7 +2,6 @@
 ## I'm  ZianTT, a network researcher.
 
 I'm also:
-- a CTFer @ [V&N Team](https://vnteam.cn/)
 - a CTFer @ [LilHouse](https://github.com/Lil-House)
 - a DevSecOps @ [LightXi Inc.](https://www.lightxi.com/) AKA Zhuhai Xiyun Cloud Technology Co., Ltd.(珠海市晞云云科技有限公司)
 - currently middle school student in Shanghai Yangpu Senior High School

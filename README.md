@@ -3,8 +3,8 @@
 
 I'm also:
 - a DevSecOps and core staff [@LightXi Inc.](https://www.lightxi.com/) AKA Zhuhai Xiyun Cloud Technology Co., Ltd.(珠海市晞云云科技有限公司)
-- Co-founder of [biliticket](https://github.com/biliticket)
-- Co-founder of [ShikkariRice](https://github.com/ShikkariRice)
+- Co-founder of [@biliticket](https://github.com/biliticket)
+- Co-founder of [@ShikkariRice](https://github.com/ShikkariRice)
 - a CTFer [@LilHouse](https://github.com/Lil-House)
 - a member [@SoybeanSec](https://github.com/Team-intN18-SoybeanSeclab)
 - currently middle school student in Shanghai Yangpu Senior High School
